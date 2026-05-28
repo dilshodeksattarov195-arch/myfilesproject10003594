@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartdelete",
+        "uuid": 21208194,
+        "checksum": "01nwfh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
